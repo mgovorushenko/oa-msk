@@ -3286,3 +3286,24 @@
   visibility:hidden;
   word-wrap:break-word;
 }
+#u1423_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:300px;
+  height:62px;
+}
+#u1423 {
+  position:absolute;
+  left:152px;
+  top:5262px;
+  width:300px;
+  height:62px;
+}
+#u1424 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:300px;
+  word-wrap:break-word;
+}
